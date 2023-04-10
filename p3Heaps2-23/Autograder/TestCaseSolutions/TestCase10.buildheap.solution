@@ -1,0 +1,150 @@
+{
+  "1": {
+    "key": 1771.0,
+    "leftChild": "2",
+    "rightChild": "3",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "10": {
+    "key": 4981.0,
+    "parent": "5",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "11": {
+    "key": 4980.0,
+    "parent": "5",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "12": {
+    "key": 4543.0,
+    "parent": "6",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "13": {
+    "key": 4509.0,
+    "parent": "6",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "14": {
+    "key": 4806.0,
+    "parent": "7",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "15": {
+    "key": 4168.0,
+    "parent": "7",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "16": {
+    "key": 4906.0,
+    "parent": "8",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "2": {
+    "key": 4302.0,
+    "leftChild": "4",
+    "parent": "1",
+    "rightChild": "5",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "3": {
+    "key": 2946.0,
+    "leftChild": "6",
+    "parent": "1",
+    "rightChild": "7",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "4": {
+    "key": 4693.0,
+    "leftChild": "8",
+    "parent": "2",
+    "rightChild": "9",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "5": {
+    "key": 4485.0,
+    "leftChild": "10",
+    "parent": "2",
+    "rightChild": "11",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "6": {
+    "key": 4429.0,
+    "leftChild": "12",
+    "parent": "3",
+    "rightChild": "13",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "7": {
+    "key": 3304.0,
+    "leftChild": "14",
+    "parent": "3",
+    "rightChild": "15",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "8": {
+    "key": 4869.0,
+    "leftChild": "16",
+    "parent": "4",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "9": {
+    "key": 4802.0,
+    "parent": "4",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "metadata": {
+    "maxHeapSize": 30,
+    "max_size": 30,
+    "numOperations": 200,
+    "size": 16
+  }
+}

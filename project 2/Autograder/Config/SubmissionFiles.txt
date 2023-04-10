@@ -1,0 +1,10 @@
+Makefile
+consistentresultverification.cxx
+insertionsort.cpp
+insertionsort.h
+mergesort.cpp
+mergesort.h
+quicksort.cpp
+quicksort.h
+sortedverification.cxx
+timealgorithms.cxx

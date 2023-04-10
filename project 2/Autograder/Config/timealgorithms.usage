@@ -1,0 +1,4 @@
+./timealgorithms TestCases/TestCase$i.json
+TestCaseSubmissions/timealgorithms.TestCase$i.submission
+./timealgorithms.grader TestCaseSubmissions/timealgorithms.TestCase$i.submission TestCaseSolutions/timealgorithms.TestCase$i.solution
+40 points

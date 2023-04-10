@@ -1,0 +1,276 @@
+{
+  "1": {
+    "key": 1600.0,
+    "leftChild": "2",
+    "rightChild": "3",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "10": {
+    "key": 4345.0,
+    "leftChild": "20",
+    "parent": "5",
+    "rightChild": "21",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "11": {
+    "key": 4670.0,
+    "leftChild": "22",
+    "parent": "5",
+    "rightChild": "23",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "12": {
+    "key": 4257.0,
+    "leftChild": "24",
+    "parent": "6",
+    "rightChild": "25",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "13": {
+    "key": 3957.0,
+    "leftChild": "26",
+    "parent": "6",
+    "rightChild": "27",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "14": {
+    "key": 4058.0,
+    "leftChild": "28",
+    "parent": "7",
+    "rightChild": "29",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "15": {
+    "key": 3857.0,
+    "leftChild": "30",
+    "parent": "7",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "16": {
+    "key": 4878.0,
+    "parent": "8",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "17": {
+    "key": 4695.0,
+    "parent": "8",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "18": {
+    "key": 4392.0,
+    "parent": "9",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "19": {
+    "key": 4563.0,
+    "parent": "9",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "2": {
+    "key": 4002.0,
+    "leftChild": "4",
+    "parent": "1",
+    "rightChild": "5",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "20": {
+    "key": 4788.0,
+    "parent": "10",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "21": {
+    "key": 4617.0,
+    "parent": "10",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "22": {
+    "key": 4709.0,
+    "parent": "11",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "23": {
+    "key": 4974.0,
+    "parent": "11",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "24": {
+    "key": 4799.0,
+    "parent": "12",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "25": {
+    "key": 4806.0,
+    "parent": "12",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "26": {
+    "key": 3987.0,
+    "parent": "13",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "27": {
+    "key": 3981.0,
+    "parent": "13",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "28": {
+    "key": 4625.0,
+    "parent": "14",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "29": {
+    "key": 4525.0,
+    "parent": "14",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "3": {
+    "key": 2438.0,
+    "leftChild": "6",
+    "parent": "1",
+    "rightChild": "7",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "30": {
+    "key": 4348.0,
+    "parent": "15",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "4": {
+    "key": 4060.0,
+    "leftChild": "8",
+    "parent": "2",
+    "rightChild": "9",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "5": {
+    "key": 4039.0,
+    "leftChild": "10",
+    "parent": "2",
+    "rightChild": "11",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "6": {
+    "key": 3933.0,
+    "leftChild": "12",
+    "parent": "3",
+    "rightChild": "13",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "7": {
+    "key": 3446.0,
+    "leftChild": "14",
+    "parent": "3",
+    "rightChild": "15",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "8": {
+    "key": 4293.0,
+    "leftChild": "16",
+    "parent": "4",
+    "rightChild": "17",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "9": {
+    "key": 4286.0,
+    "leftChild": "18",
+    "parent": "4",
+    "rightChild": "19",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "metadata": {
+    "maxHeapSize": 30,
+    "max_size": 30,
+    "numOperations": 200,
+    "size": 30
+  }
+}

@@ -1,0 +1,4 @@
+./sortedverification TestCases/TestCase$i.json
+TestCaseSubmissions/sortedverification.TestCase$i.submission
+./sortedverification.grader TestCaseSolutions/sortedverification.TestCase$i.solution TestCaseSubmissions/sortedverification.TestCase$i.submission
+30 points

@@ -1,0 +1,4 @@
+./createteams TestCases/TestCase$i.createteams.json
+TestCaseSubmissions/TestCase$i.createteams.submission
+./createteams.grader TestCaseSolutions/TestCase$i.createteams.solution TestCaseSubmissions/TestCase$i.createteams.submission
+40 points

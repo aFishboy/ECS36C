@@ -1,0 +1,4 @@
+./consistentresultverification TestCases/TestCase$i.json TestCases/TestCase$((i + 1 == 101 ? 1 : i + 1)).json
+TestCaseSubmissions/consistentresultverification.TestCase$i-TestCase$((i + 1 == 101 ? 1 : i + 1)).submission
+./consistentresultverification.grader TestCaseSolutions/consistentresultverification.TestCase$i-TestCase$((i + 1 == 101 ? 1 : i + 1)).solution TestCaseSubmissions/consistentresultverification.TestCase$i-TestCase$((i + 1 == 101 ? 1 : i + 1)).submission
+30 points

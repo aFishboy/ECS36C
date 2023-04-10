@@ -1,0 +1,96 @@
+{
+  "1": {
+    "key": 2060.0,
+    "leftChild": "2",
+    "rightChild": "3",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "10": {
+    "key": 4913.0,
+    "parent": "5",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "2": {
+    "key": 3571.0,
+    "leftChild": "4",
+    "parent": "1",
+    "rightChild": "5",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "3": {
+    "key": 4676.0,
+    "leftChild": "6",
+    "parent": "1",
+    "rightChild": "7",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "4": {
+    "key": 4499.0,
+    "leftChild": "8",
+    "parent": "2",
+    "rightChild": "9",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "5": {
+    "key": 4473.0,
+    "leftChild": "10",
+    "parent": "2",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "6": {
+    "key": 4814.0,
+    "parent": "3",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "7": {
+    "key": 4901.0,
+    "parent": "3",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "8": {
+    "key": 4919.0,
+    "parent": "4",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "9": {
+    "key": 4561.0,
+    "parent": "4",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "metadata": {
+    "maxHeapSize": 30,
+    "max_size": 30,
+    "numOperations": 200,
+    "size": 10
+  }
+}

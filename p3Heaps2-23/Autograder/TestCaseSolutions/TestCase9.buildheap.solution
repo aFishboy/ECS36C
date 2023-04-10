@@ -1,0 +1,204 @@
+{
+  "1": {
+    "key": 2189.0,
+    "leftChild": "2",
+    "rightChild": "3",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "10": {
+    "key": 3159.0,
+    "leftChild": "20",
+    "parent": "5",
+    "rightChild": "21",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "11": {
+    "key": 2699.0,
+    "leftChild": "22",
+    "parent": "5",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "12": {
+    "key": 4817.0,
+    "parent": "6",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "13": {
+    "key": 4918.0,
+    "parent": "6",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "14": {
+    "key": 4831.0,
+    "parent": "7",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "15": {
+    "key": 4217.0,
+    "parent": "7",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "16": {
+    "key": 4983.0,
+    "parent": "8",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "17": {
+    "key": 4833.0,
+    "parent": "8",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "18": {
+    "key": 4924.0,
+    "parent": "9",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "19": {
+    "key": 4801.0,
+    "parent": "9",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "2": {
+    "key": 2507.0,
+    "leftChild": "4",
+    "parent": "1",
+    "rightChild": "5",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "20": {
+    "key": 4888.0,
+    "parent": "10",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "21": {
+    "key": 3729.0,
+    "parent": "10",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "22": {
+    "key": 4886.0,
+    "parent": "11",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "3": {
+    "key": 2736.0,
+    "leftChild": "6",
+    "parent": "1",
+    "rightChild": "7",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "4": {
+    "key": 2803.0,
+    "leftChild": "8",
+    "parent": "2",
+    "rightChild": "9",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "5": {
+    "key": 2693.0,
+    "leftChild": "10",
+    "parent": "2",
+    "rightChild": "11",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "6": {
+    "key": 4770.0,
+    "leftChild": "12",
+    "parent": "3",
+    "rightChild": "13",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "7": {
+    "key": 3395.0,
+    "leftChild": "14",
+    "parent": "3",
+    "rightChild": "15",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "8": {
+    "key": 4436.0,
+    "leftChild": "16",
+    "parent": "4",
+    "rightChild": "17",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "9": {
+    "key": 2832.0,
+    "leftChild": "18",
+    "parent": "4",
+    "rightChild": "19",
+    "value": [
+      0,
+      0
+    ]
+  },
+  "metadata": {
+    "maxHeapSize": 30,
+    "max_size": 30,
+    "numOperations": 200,
+    "size": 22
+  }
+}

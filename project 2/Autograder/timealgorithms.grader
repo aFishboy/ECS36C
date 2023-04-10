@@ -1,0 +1,17 @@
+#! /bin/bash
+
+score=0
+program=timealgorithms
+columns=(1 3 4 6 7 9 10)
+for j in ${columns[@]}; do
+    submission=$(cut -f $j -d, $1)
+    solution=$(cut -f $j -d, $2)
+    if [ "$submission" = "$solution" ]; then
+        score=$((score + 1))
+    else
+        (>&2 echo "  Column $j differs")
+        (>&2 echo "    Submission: $submission")
+        (>&2 echo "    Solution: $solution")
+    fi 
+done
+echo "scale=2; 100 * $score / 7" | bc -l

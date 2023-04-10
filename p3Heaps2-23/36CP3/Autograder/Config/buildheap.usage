@@ -1,0 +1,4 @@
+./buildheap TestCases/TestCase$i.buildheap.json
+TestCaseSubmissions/TestCase$i.buildheap.submission
+./buildheap.grader TestCaseSolutions/TestCase$i.buildheap.solution TestCaseSubmissions/TestCase$i.buildheap.submission
+60 points
